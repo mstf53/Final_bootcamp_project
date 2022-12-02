@@ -1,3 +1,4 @@
-Thumbs.db
-.ipynb_checkpoints
-__pycache__
+/slides/Thumbs.db
+/images/Thumbs.db
+/notebooks/.ipynb_checkpoints
+/notebooks/__pycache__
