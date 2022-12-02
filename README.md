@@ -1,6 +1,8 @@
 
 #### Final Project
 
+![Happiness](/slides/a.png)
+
 ## Employee Analysis
 
 
