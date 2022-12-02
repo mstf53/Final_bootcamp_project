@@ -1,7 +1,7 @@
 
 #### Final Project
 
-![Happiness](/slides/a.png)
+![Happiness](https://github.com/mstf53/Final_bootcamp_project/blob/main/slides/a.jpg)
 
 ## Employee Analysis
 
